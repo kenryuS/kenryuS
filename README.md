@@ -1,5 +1,5 @@
 - Hi, I’m @kenryuS
-- I’m using Ubuntu and Windows 10 for my work station
+- I’m using Ubuntu Linux and MS Windows 10 for my work station
 - I'm programming on Java, JavaScript, Python, and C#
 - I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
 
