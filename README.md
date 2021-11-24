@@ -1,6 +1,6 @@
 - Hi, I’m @kenryuS
 - I’m using Ubuntu Linux and MS Windows 10 for my work station
-- I'm programming on Java, JavaScript, Python, and C#
+- I'm learning Java, JavaScript, Python, and C#
 - I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenryuS)](https://github.com/anuraghazra/github-readme-stats)
