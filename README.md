@@ -1,7 +1,7 @@
 - Hi, I’m @kenryuS
 - I’m using Ubuntu and Windows 10 for my work station
-- Java, JavaScript, and C#
-- I am currently working on the PI calculator using python and Qt. Take a look at [here!](https://github.com/users/kenryuS/projects/1)
+- I'm programming on Java, JavaScript, Python, and C#
+- I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
 
 <!---
 kenryuS/kenryuS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
