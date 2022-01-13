@@ -3,7 +3,7 @@
 - I'm learning Java, JavaScript, Python, and C#
 - I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenryuS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenryuS)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=onedark)
 
 
 <!---
