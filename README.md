@@ -2,6 +2,9 @@
 - I’m using Ubuntu Linux for my work station
 - I'm learning Java, JavaScript, Python, and C#
 - I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
+- I am currently learning:
+    - TensorFlow + Python for summer prep
+    - The basics of C++
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
