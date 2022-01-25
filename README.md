@@ -9,7 +9,7 @@
 
 #### My work station specs
 
-|Complement|Info|
+|Components|Info|
 |---|---|
 |CPU|Intel core i7-10700K|
 |RAM|32GB DDR4 (16GB x2)|
