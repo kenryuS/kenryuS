@@ -2,7 +2,7 @@
 
 - I’m using Ubuntu Linux for my work station
 - I can code on JavaScript, Python, and C#
-- I am currently working on the PI calculator using python and Qt. Take a look at [here](https://github.com/users/kenryuS/projects/1)!
+- Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - I am currently learning:
     - TensorFlow + Python for summer prep
     - The basics of C++
