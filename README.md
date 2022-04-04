@@ -18,7 +18,7 @@
 
 ### The programming/scripting language I have used
 
-Python, HTML, CSS, Javascript, Java, C#, C++, Kotolin, bash, x86 assembly
+Python, HTML, CSS, Javascript, Java, C#, C++, Kotlin, bash, x86 assembly
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
