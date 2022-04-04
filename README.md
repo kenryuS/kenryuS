@@ -16,6 +16,10 @@
 |SSD|1TB m2 SATA|
 |Graphics card|NVIDIA GeForce RTX 2080 Ti Rev.|
 
+### The programming/scripting language I have used
+
+Python, HTML, CSS, Javascript, Java, C#, C++, Kotolin, bash, x86 assembly
+
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
 <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenryuS&layout=compact&theme=onedark">
