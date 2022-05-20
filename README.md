@@ -5,7 +5,7 @@
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python for summer prep
-    - The basics of C++
+    - creating diary node.js application
 - What I am working on:
     - Document translation
 
