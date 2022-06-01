@@ -1,7 +1,7 @@
 #### Hi, I am kenryuS
 
 - I’m using Ubuntu Linux for my work station
-- I can code on JavaScript, Python, and C#
+- I can code on Python, Javascript, C#, C++, and Java
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python for summer prep
@@ -20,7 +20,7 @@
 
 ### The programming/scripting language I have used
 
-Python, HTML, CSS, Javascript, PHP, SQL, Rust, Java, C#, C++, Kotlin, bash, x86 assembly
+Python, HTML, CSS, Javascript, PHP, SQL, Rust, Java, C#, C++, Kotlin, bash, x86 assembly, Lua
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
