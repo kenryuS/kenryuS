@@ -9,6 +9,7 @@
     - Over-all of AP Comp Sci
 - What I am working on:
     - Document translation
+    - Searching for STEM related volumteer
 
 #### My work station specs
 
