@@ -22,7 +22,7 @@
 
 ### The programming/scripting language I have used
 
-Python, HTML, CSS, Javascript, PHP, SQL, Rust, Java, C#, C++, Kotlin, bash, x86 assembly, Lua, Julia, Fortan, Haskell
+Python, HTML, CSS, Javascript, PHP, SQL, Rust, Java, C#, C++, C, Ruby Kotlin, shell script, assembly, Lua, Julia, Fortan, Haskell
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
