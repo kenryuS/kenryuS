@@ -1,6 +1,6 @@
 #### Hi, I am kenryuS
 
-- I’m using Ubuntu Linux for my work station
+- I’m using Ubuntu Linux on my work station and Arch Linux on my laptop
 - I can code on Python, Javascript, C#, C++, and Java
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
@@ -20,9 +20,17 @@
 |SSD|1TB m2 SATA|
 |Graphics card|NVIDIA GeForce RTX 2080 Ti Rev.|
 
+### My laptop specs
+
+|Components|Info|
+|---|---|
+|CPU|AMD Ryzen 5500U|
+|RAM|16GB|
+|SSD|512GB m2 SATA|
+
 ### The programming/scripting language I have used
 
-Python, HTML, CSS, Javascript, PHP, SQL, Rust, Java, C#, C++, C, Ruby Kotlin, shell script, assembly, Lua, Julia, Fortan, Haskell
+Python, HTML, CSS, JavaScript, TypeScript, PHP, SQL, Rust, Java, C#, C++, C, Ruby, Kotlin, shell script, assembly, Lua, Julia, Fortan, Haskell
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
