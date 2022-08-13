@@ -1,6 +1,6 @@
 #### Hi, I am kenryuS
 
-- I’m using Ubuntu Linux on my work station and Arch Linux on my laptop
+- I’m using EndeavourOS Linux on my work station and Arch Linux on my laptop
 - I can code on Python, Javascript, C#, C++, and Java
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
