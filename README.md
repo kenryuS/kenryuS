@@ -1,7 +1,7 @@
 #### Hi, I am kenryuS
 
 - I’m using EndeavourOS Linux on my work station and Arch Linux on my laptop
-- I can code on Python, Javascript, C#, C++, and Java
+- I can code on Python, Javascript, C++, C#, and Java
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
@@ -20,7 +20,7 @@
 |SSD|1TB m2 SATA|
 |Graphics card|NVIDIA GeForce RTX 2080 Ti Rev.|
 
-### My laptop specs
+#### My laptop specs
 
 |Components|Info|
 |---|---|
@@ -28,9 +28,9 @@
 |RAM|16GB|
 |SSD|512GB m2 SATA|
 
-### The programming/scripting language I have used
+### The programming/scripting language I have used (sorted in offten use)
 
-Python, HTML, CSS, JavaScript, TypeScript, PHP, SQL, Rust, Java, C#, C++, C, Ruby, Kotlin, shell script, assembly, Lua, Julia, Fortan, Haskell
+Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, PHP, SQL, Ruby, assembly, Julia, Fortran, Haskell
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
 
