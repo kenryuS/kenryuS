@@ -28,7 +28,7 @@
 |RAM|16GB|
 |SSD|512GB m2 SATA|
 
-### The programming/scripting language I have used (sorted in offten use)
+### The programming/scripting language I have `touch`ed (sorted in offten use)
 
 Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, PHP, SQL, Ruby, assembly, Julia, Fortran, Haskell
 
