@@ -37,12 +37,12 @@ Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C,
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [########..] 85%
+C++                 [#########.] 90%
 C#                  [#########.] 95%
 HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [#########.] 95%
-TypeScript          [########..] 80%
+TypeScript          [#########.] 95%
 Java                [########..] 85%
 Rust                [###.......] 30%
 C                   [######....] 60%
@@ -54,7 +54,7 @@ Ruby                [#.........] 15%
 assembly            [..........] 5%
 Julia               [#.........] 10%
 Fortran             [#.........] 10%
-Haskell             [#.........] 15%
+Haskell             [###.......] 30%
 ```
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
