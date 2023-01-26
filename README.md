@@ -47,14 +47,14 @@ Java                [########..] 85%
 Rust                [###.......] 30%
 C                   [######....] 60%
 Kotlin              [######....] 60%
-Lua                 [####......] 40%
-PHP                 [######....] 50%
+Lua                 [#####.....] 50%
+PHP                 [#####.....] 50%
 SQL                 [##........] 20%
 Ruby                [#.........] 15%
 assembly            [..........] 5%
-Julia               [#.........] 10%
+Julia               [###.......] 30%
 Fortran             [#.........] 10%
-Haskell             [###.......] 30%
+Haskell             [####......] 40%
 ```
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
