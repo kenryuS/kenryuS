@@ -11,6 +11,8 @@
     - Document translation
     - Searching for STEM related volumteer
 
+- Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app)
+
 ### My work station specs
 
 |Components|Info|
@@ -37,13 +39,13 @@ Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C,
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [#########.] 90%
+C++                 [#########.] 95%
 C#                  [#########.] 95%
 HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [#########.] 95%
 TypeScript          [#########.] 95%
-Java                [########..] 85%
+Java                [#########.] 90%
 Rust                [###.......] 30%
 C                   [######....] 60%
 Kotlin              [######....] 60%
