@@ -1,6 +1,6 @@
 ### Hi, I am kenryuS
 
-- I use Arch btw on my work station and Manjaro Linux on my laptop
+- I use Arch on my work station and Manjaro Linux on my laptop btw
 - I can code on Python, Javascript, C++, C#, and Java
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
@@ -39,24 +39,24 @@ Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C,
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [#########.] 95%
-C#                  [#########.] 95%
+C++                 [#########.] 095%
+C#                  [#########.] 095%
 HTML                [##########] 100%
 CSS                 [##########] 100%
-shell script        [#########.] 95%
-TypeScript          [#########.] 95%
-Java                [#########.] 90%
-Rust                [###.......] 30%
-C                   [######....] 60%
-Kotlin              [######....] 60%
-Lua                 [#####.....] 50%
-PHP                 [#####.....] 50%
-SQL                 [##........] 20%
-Ruby                [#.........] 15%
-assembly            [..........] 5%
-Julia               [###.......] 30%
-Fortran             [#.........] 10%
-Haskell             [####......] 40%
+shell script        [##########] 100%
+TypeScript          [#########.] 095%
+Java                [#########.] 090%
+Rust                [######....] 060%
+C                   [######....] 060%
+Kotlin              [######....] 060%
+Lua                 [#####.....] 050%
+PHP                 [#####.....] 050%
+SQL                 [##........] 020%
+Ruby                [#.........] 015%
+assembly            [..........] 005%
+Julia               [###.......] 030%
+Fortran             [#.........] 010%
+Haskell             [####......] 040%
 ```
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
