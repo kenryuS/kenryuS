@@ -10,6 +10,7 @@
 - What I am working on:
     - Document translation
     - Searching for STEM related volumteer
+    - Reviewing AP Comp Sci Principle Stuffs
 
 - Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app)
 
