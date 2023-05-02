@@ -60,7 +60,7 @@ Fortran             [#.........] 010%
 Haskell             [####......] 040%
 ```
 
-<img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark">
+<img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api/top-langs/?username=kenryuS&layout=compact&theme=onedark">
 
