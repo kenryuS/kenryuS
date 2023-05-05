@@ -1,7 +1,9 @@
 ### Hi, I am kenryuS
 
+My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge) times
+
 - I use Arch on my work station and Manjaro Linux on my laptop btw
-- I can code on Python, Javascript, C++, C#, and Java
+- I can code on C++, Java, Javascript, Python, 
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
@@ -33,7 +35,7 @@
 
 ### The programming/scripting language I have `touch`ed (sorted in offten use)
 
-Python, JavaScript, C++, C#, HTML, CSS, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, PHP, SQL, Ruby, assembly, Julia, Fortran, Haskell
+Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly
 
 ### Language Learning Processes (learning basical concepts)
 
@@ -63,9 +65,3 @@ Haskell             [####......] 040%
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api/top-langs/?username=kenryuS&layout=compact&theme=onedark">
-
-
-<!---
-kenryuS/kenryuS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
