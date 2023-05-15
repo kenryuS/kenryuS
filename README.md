@@ -12,7 +12,6 @@ My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-
 - What I am working on:
     - Document translation
     - Searching for STEM related volumteer
-    - Reviewing AP Comp Sci Principle Stuffs
 
 - Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app)
 
