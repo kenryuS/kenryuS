@@ -2,8 +2,8 @@
 
 My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge) times
 
-- I use Arch on my work station and Manjaro Linux on my laptop btw
-- I can code on C++, Java, Javascript, Python, 
+- I use Arch on my work station and Pop_OS! on my laptop btw
+- I can code on C++, Java, Javascript, Python
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
