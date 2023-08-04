@@ -2,13 +2,13 @@
 
 My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge) times
 
-- I use Arch on my work station and Pop_OS! on my laptop btw
+- I use Arch on my work station and Ubuntu on my laptop btw
 - I can code on C++, Java, Javascript, Python
 - Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
     - Linear Algebra
-    - Over-all of AP Comp Sci
+    - ROS2
 - What I am working on:
     - Document translation
     - Searching for STEM related volumteer
@@ -34,7 +34,7 @@ My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-
 
 ### The programming/scripting language I have `touch`ed (sorted in offten use)
 
-Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly
+Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly, Go
 
 ### Language Learning Processes (learning basical concepts)
 
@@ -47,11 +47,11 @@ HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [##########] 100%
 TypeScript          [#########.] 095%
-Java                [#########.] 090%
+Java                [#########.] 095%
 Rust                [######....] 060%
-C                   [######....] 060%
+C                   [########..] 080%
 Kotlin              [######....] 060%
-Lua                 [#####.....] 050%
+Lua                 [######....] 060%
 PHP                 [#####.....] 050%
 SQL                 [##........] 020%
 Ruby                [#.........] 015%
@@ -59,6 +59,7 @@ assembly            [..........] 005%
 Julia               [###.......] 030%
 Fortran             [#.........] 010%
 Haskell             [####......] 040%
+Go                  [#.........] 015%
 ```
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
