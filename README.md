@@ -2,20 +2,20 @@
 
 My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge) times
 
-- I use Arch on my work station and Ubuntu on my laptop btw
+- I use Arch on my workstation and Ubuntu on my laptop btw
 - I can code on C++, Java, Javascript, Python
-- Take a look at my projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
+- Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
     - Linear Algebra
     - ROS2
 - What I am working on:
     - Document translation
-    - Searching for STEM related volumteer
+    - Searching for STEM-related volunteer
 
 - Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app)
 
-### My work station specs
+### My workstation specs
 
 |Components|Info|
 |---|---|
@@ -36,20 +36,20 @@ My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-
 
 Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly, Go
 
-### Language Learning Processes (learning basical concepts)
+### Language Learning Processes (learning basic concepts)
 
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [#########.] 095%
+C++                 [#########.] 098%
 C#                  [#########.] 095%
 HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [##########] 100%
 TypeScript          [#########.] 095%
-Java                [#########.] 095%
+Java                [##########] 100%
 Rust                [######....] 060%
-C                   [########..] 080%
+C                   [########..] 085%
 Kotlin              [######....] 060%
 Lua                 [######....] 060%
 PHP                 [#####.....] 050%
