@@ -12,8 +12,14 @@ My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-
 - What I am working on:
     - Document translation
     - Searching for STEM-related volunteer
+    - New Nuxt Japanese Blog
+    - Preparing for the KOSEN Exam
+- What I'm ***Addicted*** To:
+    - Linux
+    - Terminal
+    - i3wm
 
-- Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app)
+- Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app) (Not Updating)
 
 ### My workstation specs
 
@@ -53,7 +59,7 @@ C                   [########..] 085%
 Kotlin              [######....] 060%
 Lua                 [######....] 060%
 PHP                 [#####.....] 050%
-SQL                 [##........] 020%
+SQL                 [###.......] 030%
 Ruby                [#.........] 015%
 assembly            [..........] 005%
 Julia               [###.......] 030%
