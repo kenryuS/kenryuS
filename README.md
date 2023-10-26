@@ -1,9 +1,18 @@
 ### Hi, I am kenryuS
+![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
+![Static Badge](https://img.shields.io/badge/Ubuntu-gray?style=plastic&logo=Ubuntu)
 
-My Profile has been visited ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge) times
+![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=C%2B%2B)
+![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=Python)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=JavaScript)
+
+
+![](https://komarev.com/ghpvc/?username=kenryuS&color=green&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
+
 
 - I use Arch on my workstation and Ubuntu on my laptop btw
-- I can code on C++, Java, Javascript, Python
+- I can code on C++, Javascript, Python
 - Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
