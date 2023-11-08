@@ -1,4 +1,4 @@
-### Hi, I am kenryuS
+### kenryuS
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-gray?style=plastic&logo=Ubuntu)
 
@@ -10,46 +10,49 @@
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
 
-- I use Arch on my workstation and Ubuntu on my laptop btw
-- I can code on C++, Javascript, Python
-- Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
-- What I am currently learning:
+- ワークステーションではArch Linuxを、ノートPCではUbuntuを使ってます。
+- C++, Javascript Python出来ます。
+- 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
+
+- 今習得しようてしているもの：
     - TensorFlow + Python
-    - Linear Algebra
     - ROS2
-- What I am working on:
-    - Document translation
-    - New Nuxt Japanese Blog
-    - Preparing for the KOSEN Exam
-- What I'm ***Addicted*** To:
+    - 線形代数
+
+- 今やっていること：
+    - ドキュメンテーションの翻訳
+    - 新しい日本語ブログの作成
+    - 高専受験対策
+
+- 沼にハマっているもの：
     - Linux
-    - Terminal
     - i3wm
+    - ターミナル
 
-- Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app) (Not Updating)
+- ウェブサイト: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app) (更新してないなり)
 
-### My workstation specs
+### ワークステーションのスペック
 
-|Components|Info|
+|部品|情報|
 |---|---|
 |CPU|Intel core i7-10700K|
 |RAM|32GB DDR4 (16GB x2)|
 |SSD|1TB m2 SATA|
 |GPU|NVIDIA GeForce RTX 2080 Ti Rev.|
 
-### My laptop specs
+### ノートPCのスペック
 
-|Components|Info|
+|部品|情報|
 |---|---|
 |CPU|AMD Ryzen 5500U|
 |RAM|16GB|
 |SSD|512GB m2 SATA|
 
-### The programming/scripting language I have `touch`ed (sorted in offten use)
+### 今まで`touch`した言語 (使用頻度順)
 
 Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly, Go
 
-### Language Learning Processes (learning basic concepts)
+### 言語習得ステータス(基本コンセプト)
 
 ```
 Python              [##########] 100%
