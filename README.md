@@ -11,6 +11,7 @@
 
 
 - I use Arch on my workstation and Ubuntu on my laptop btw
+- 6 years into the coding
 - I can code on C++, Javascript, Python
 - Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
@@ -19,14 +20,13 @@
     - ROS2
 - What I am working on:
     - Document translation
-    - New Nuxt Japanese Blog
     - Preparing for the KOSEN Exam
 - What I'm ***Addicted*** To:
     - Linux
     - Terminal
     - i3wm
 
-- Website: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app) (Not Updating)
+- Blog: [https://blog-kenryus.vercel.app](https://blog-kenryus.vercel.app)
 
 ### My workstation specs
 
@@ -54,21 +54,21 @@ Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C,
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [#########.] 098%
+C++                 [##########] 100%
 C#                  [#########.] 095%
 HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [##########] 100%
-TypeScript          [#########.] 095%
+TypeScript          [##########] 100%
 Java                [##########] 100%
 Rust                [######....] 060%
-C                   [########..] 085%
+C                   [##########] 100%
 Kotlin              [######....] 060%
 Lua                 [######....] 060%
 PHP                 [#####.....] 050%
-SQL                 [###.......] 030%
+SQL                 [####......] 040%
 Ruby                [#.........] 015%
-assembly            [..........] 005%
+assembly            [##........] 020%
 Julia               [###.......] 030%
 Fortran             [#.........] 010%
 Haskell             [####......] 040%

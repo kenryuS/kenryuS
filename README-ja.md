@@ -11,6 +11,7 @@
 
 
 - ワークステーションではArch Linuxを、ノートPCではUbuntuを使ってます。
+- プログラミング６年目
 - C++, Javascript Python出来ます。
 - 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
 
@@ -21,7 +22,6 @@
 
 - 今やっていること：
     - ドキュメンテーションの翻訳
-    - 新しい日本語ブログの作成
     - 高専受験対策
 
 - 沼にハマっているもの：
@@ -29,7 +29,7 @@
     - i3wm
     - ターミナル
 
-- ウェブサイト: [https://website-kenryus.vercel.app](https://website-kenryus.vercel.app) (更新してないなり)
+- ウェブサイト: [https://blog-kenryus.vercel.app](https://blog-kenryus.vercel.app)
 
 ### ワークステーションのスペック
 
@@ -57,21 +57,21 @@ Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C,
 ```
 Python              [##########] 100%
 JavaScript          [##########] 100%
-C++                 [#########.] 098%
+C++                 [##########] 100%
 C#                  [#########.] 095%
 HTML                [##########] 100%
 CSS                 [##########] 100%
 shell script        [##########] 100%
-TypeScript          [#########.] 095%
+TypeScript          [##########] 100%
 Java                [##########] 100%
 Rust                [######....] 060%
-C                   [########..] 085%
+C                   [##########] 100%
 Kotlin              [######....] 060%
 Lua                 [######....] 060%
 PHP                 [#####.....] 050%
 SQL                 [###.......] 030%
 Ruby                [#.........] 015%
-assembly            [..........] 005%
+assembly            [##........] 020%
 Julia               [###.......] 030%
 Fortran             [#.........] 010%
 Haskell             [####......] 040%
