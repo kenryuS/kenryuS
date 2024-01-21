@@ -1,6 +1,5 @@
 ### Hi, I am kenryuS
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
-![Static Badge](https://img.shields.io/badge/Ubuntu-gray?style=plastic&logo=Ubuntu)
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=C%2B%2B)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=Python)
@@ -10,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
 
-- I use Arch on my workstation and Ubuntu on my laptop btw
+- I use Arch on my workstation and laptop btw
 - 6 years into the coding
 - I can code on C++, Javascript, Python
 - Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!

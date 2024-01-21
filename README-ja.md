@@ -1,6 +1,5 @@
 ### kenryuS
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
-![Static Badge](https://img.shields.io/badge/Ubuntu-gray?style=plastic&logo=Ubuntu)
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=C%2B%2B)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=Python)
@@ -10,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
 
-- ワークステーションではArch Linuxを、ノートPCではUbuntuを使ってます。
+- ワークステーションとノートPCではArch Linuxを使ってます。
 - プログラミング６年目
 - C++, Javascript Python出来ます。
 - 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
