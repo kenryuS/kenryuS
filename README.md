@@ -1,3 +1,5 @@
+> これは英語版READMEです。日本語版は[こちら](https://github.com/kenryuS/kenryuS/blob/main/README-ja.md)から。
+
 ### Hi, I am kenryuS
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
 
@@ -19,7 +21,6 @@
     - ROS2
 - What I am working on:
     - Document translation
-    - Preparing for the KOSEN Exam
 - What I'm ***Addicted*** To:
     - Linux
     - Terminal
@@ -71,7 +72,7 @@ assembly            [##........] 020%
 Julia               [###.......] 030%
 Fortran             [#.........] 010%
 Haskell             [####......] 040%
-Go                  [#.........] 015%
+Go                  [###.......] 030%
 ```
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>

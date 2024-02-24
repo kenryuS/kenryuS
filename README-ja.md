@@ -1,3 +1,5 @@
+> This is Japanese Version of README. English version is [here](https://github.com/kenryuS/kenryuS/blob/main/README.md).
+
 ### kenryuS
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
 
@@ -11,7 +13,7 @@
 
 - ワークステーションとノートPCではArch Linuxを使ってます。
 - プログラミング６年目
-- C++, Javascript Python出来ます。
+- 主にC++, Javascript Pythonで書いています。
 - 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
 
 - 今習得しようてしているもの：
@@ -21,7 +23,6 @@
 
 - 今やっていること：
     - ドキュメンテーションの翻訳
-    - 高専受験対策
 
 - 沼にハマっているもの：
     - Linux
@@ -74,7 +75,7 @@ assembly            [##........] 020%
 Julia               [###.......] 030%
 Fortran             [#.........] 010%
 Haskell             [####......] 040%
-Go                  [#.........] 015%
+Go                  [###.......] 030%
 ```
 
 <img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
