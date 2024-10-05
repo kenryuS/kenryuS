@@ -1,17 +1,14 @@
 > これは英語版READMEです。日本語版は[こちら](https://github.com/kenryuS/kenryuS/blob/main/README-ja.md)から。
 
 ### Hi, I am kenryuS
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-gray?style=plastic&logo=ArchLinux)
 
-![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=C%2B%2B)
-![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=Python)
-![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=JavaScript)
+[![My OS](https://skillicons.dev/icons?i=nix,arch,linux&theme=light)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=kenryuS&color=green&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
 
-- I use Arch on my workstation and laptop btw
+- I use NixOS on my workstation and Arch Linux on my laptop btw
 - 6 years into the coding
 - I can code on C++, Javascript, Python
 - Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
@@ -45,6 +42,18 @@
 |RAM|16GB|
 |SSD|512GB m2 SATA|
 
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,fortran,go,haskell,html,css,js,ts,kotnlin,java,lua,py,rust&theme=light)](https://skillicons.dev)
+
+### Library/Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=gtk,qt,express,htmx,vue,nuxtjs,react,tauri,opencv,tensorflow,&theme=light)](https://skillicons.dev)
+
+### Tools
+
+[![My Tools](https://skillicons.dev/icons?i=vim,cmake,docker,git,github,nodejs,octave,vscode,vscodium,latex,&theme=light)](https://skillicons.dev)
+
 ### The programming/scripting language I have `touch`ed (sorted in offten use)
 
 Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly, Go
@@ -75,6 +84,6 @@ Haskell             [####......] 040%
 Go                  [###.......] 030%
 ```
 
-<img align=center src="https://github-readme-stats-mu-wine.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
 
-<img align=center src="https://github-readme-stats-mu-wine.vercel.app/api/top-langs/?username=kenryuS&layout=compact&theme=onedark">
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenryuS&layout=compact&theme=onedark">
