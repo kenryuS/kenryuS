@@ -47,7 +47,7 @@
 
 ### プログラミング言語
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,fortran,go,haskell,html,css,js,ts,kotnlin,java,lua,py,rust&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,fortran,go,haskell,html,css,js,ts,kotlin,java,lua,py,rust&theme=light)](https://skillicons.dev)
 
 ### ライブラリー/フレームワーク
 
