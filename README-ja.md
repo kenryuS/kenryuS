@@ -7,10 +7,10 @@
 ![](https://komarev.com/ghpvc/?username=kenryuS&color=green&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
-
+- 高専1年生
 - ワークステーションではNixOS、ノートPCではArch Linuxを使ってます。
-- プログラミング６年目
-- 主にC++, Javascript Pythonで書いています。
+- プログラミング７年目
+- 主にC++, Javascript/Typescript, Pythonで書いています。
 - 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
 
 - 今習得しようてしているもの：
@@ -20,13 +20,27 @@
 
 - 今やっていること：
     - ドキュメンテーションの翻訳
+    - 新たな艦これ補助ツールの作成 [八五式電子観測儀](https://github.com/kenryuS/Type-85-Electronic-Observer)
+    - ウェブサイトの改良
 
 - 沼にハマっているもの：
     - Linux
-    - i3wm
+    - Nix
     - ターミナル
+    - セルフホステッドサービス(owncloud, git, AIなど)
 
 - ウェブサイト: [https://blog-kenryus.vercel.app](https://blog-kenryus.vercel.app)
+
+### 私の歴史
+
+- 生誕：2000年代後半 8月7日 アメリカ ペンシルベニア州で誕生
+- 2014年 冬：カリフォルニア州へ移住
+- プログラミングとの遭遇：小学4・5年生 Scratchから
+- 2020年：小学卒業
+- 2021年 夏：ペンシルベニア州に戻った
+- 2023年 夏：中学卒業(9年生)
+- 2024年 2月：10年生中退
+- 2024年 4月：高専生として私一人だけの日本生活が始まる
 
 ### ワークステーションのスペック
 
@@ -60,32 +74,6 @@
 ### 今まで`touch`した言語 (使用頻度順)
 
 Python, C++, JavaScript, HTML, CSS, C#, shell script, TypeScript, Java, Rust, C, Kotlin, Lua, Haskell, PHP, SQL, Ruby, Julia, Fortran, assembly, Go
-
-### 言語習得ステータス(基本コンセプト)
-
-```
-Python              [##########] 100%
-JavaScript          [##########] 100%
-C++                 [##########] 100%
-C#                  [#########.] 095%
-HTML                [##########] 100%
-CSS                 [##########] 100%
-shell script        [##########] 100%
-TypeScript          [##########] 100%
-Java                [##########] 100%
-Rust                [######....] 060%
-C                   [##########] 100%
-Kotlin              [######....] 060%
-Lua                 [######....] 060%
-PHP                 [#####.....] 050%
-SQL                 [###.......] 030%
-Ruby                [#.........] 015%
-assembly            [##........] 020%
-Julia               [###.......] 030%
-Fortran             [#.........] 010%
-Haskell             [####......] 040%
-Go                  [###.......] 030%
-```
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=kenryuS&show_icons=true&theme=onedark"><br>
 
