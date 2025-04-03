@@ -9,13 +9,14 @@
 
 - I'm technical college (KOSEN) student (1st grade)
 - I use NixOS on my workstation and Arch Linux on my laptop btw
-- 7 years into the coding
+- 8 years into the coding
 - I can code on C++, Javascript, Python
 - Take a look at the projects I'm working on from [here](https://github.com/kenryuS?tab=projects)!
 - What I am currently learning:
     - TensorFlow + Python
     - Linear Algebra
     - ROS2
+    - Electric Circuits
 
 - What I am working on:
     - Document translation
@@ -28,7 +29,7 @@
     - Nix
     - Self-hosted Services(owncloud, git, AI, etc.)
 
-- Blog: [https://blog-kenryus.vercel.app](https://blog-kenryus.vercel.app)
+- Blog: [https://kenryus.github.io/blog-vp](https://kenryus.github.io/blog-vp)
 
 ### My History
 

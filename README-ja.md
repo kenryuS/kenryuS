@@ -9,7 +9,7 @@
 
 - 高専1年生
 - ワークステーションではNixOS、ノートPCではArch Linuxを使ってます。
-- プログラミング７年目
+- プログラミング８年目
 - 主にC++, Javascript/Typescript, Pythonで書いています。
 - 私が今やっている[プロジェクト](https://github.com/kenryuS?tab=projects)も見ていってください！
 
@@ -17,11 +17,11 @@
     - TensorFlow + Python
     - ROS2
     - 線形代数
+    - 電子回路
 
 - 今やっていること：
     - ドキュメンテーションの翻訳
     - 新たな艦これ補助ツールの作成 [八五式電子観測儀](https://github.com/kenryuS/Type-85-Electronic-Observer)
-    - ウェブサイトの改良
 
 - 沼にハマっているもの：
     - Linux
@@ -29,7 +29,7 @@
     - ターミナル
     - セルフホステッドサービス(owncloud, git, AIなど)
 
-- ウェブサイト: [https://blog-kenryus.vercel.app](https://blog-kenryus.vercel.app)
+- ウェブサイト: [https://kenryus.github.io/blog-vp](https://kenryus.github.io/blog-vp)
 
 ### 私の歴史
 
