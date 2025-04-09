@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=kenryuS&color=green&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
-- I'm technical college (KOSEN) student (1st grade)
+- I'm technical college (KOSEN) student (2nd grade)
 - I use NixOS on my workstation and Arch Linux on my laptop btw
 - 8 years into the coding
 - I can code on C++, Javascript, Python

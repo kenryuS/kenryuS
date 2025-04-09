@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=kenryuS&color=green&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/kenryuS?style=plastic)
 
-- 高専1年生
+- 高専2年生
 - ワークステーションではNixOS、ノートPCではArch Linuxを使ってます。
 - プログラミング８年目
 - 主にC++, Javascript/Typescript, Pythonで書いています。
